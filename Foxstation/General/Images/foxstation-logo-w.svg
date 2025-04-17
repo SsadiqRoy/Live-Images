@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 572.36 100.24">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-2 {
+        letter-spacing: .05em;
+      }
+
+      .cls-3 {
+        fill: #231f20;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        font-family: aAtmospheric, 'a Atmospheric';
+        font-size: 50px;
+      }
+
+      .cls-7 {
+        letter-spacing: -.13em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <rect class="cls-3" width="575.08" height="105.94"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <text class="cls-5" transform="translate(109.69 70.17)"><tspan class="cls-2" x="0" y="0">F</tspan><tspan class="cls-6" x="43.47" y="0">O</tspan><tspan class="cls-2" x="91.28" y="0">XS</tspan><tspan class="cls-7" x="187.34" y="0">T</tspan><tspan class="cls-1" x="222.51" y="0">A</tspan><tspan class="cls-2" x="263.39" y="0">TION</tspan></text>
+      <g>
+        <g id="Outer_Fox" data-name="Outer Fox">
+          <path class="cls-4" d="M91.96,59.28l-15.12-27.58c-.26-.48-.77-.78-1.32-.78h-14.34c-.55,0-1.05.3-1.32.78l-15.12,27.58c-.33.61-.21,1.36.31,1.83l14.81,13.51c.28.25.64.39,1.01.39h14.95c.37,0,.74-.14,1.01-.39l14.81-13.51c.51-.47.64-1.22.31-1.83h0ZM85.22,59.46l-10.43,9.51c-.26.23-.59.36-.94.36h-10.56c-.35,0-.68-.13-.94-.36l-10.43-9.51c-.48-.43-.59-1.14-.28-1.7l10.72-19.54c.24-.45.71-.72,1.22-.72h9.99c.51,0,.98.28,1.22.72l10.72,19.54c.31.56.19,1.27-.28,1.7h0Z"/>
+          <path id="Inner" class="cls-4" d="M64.07,42.5l-7.38,13.46c-.21.39-.13.87.19,1.17l7.18,6.55c.18.16.41.25.65.25h7.27c.24,0,.47-.09.65-.25l7.18-6.55c.33-.3.41-.78.19-1.17l-7.38-13.46c-.17-.31-.49-.5-.84-.5h-6.88c-.35,0-.67.19-.84.5h0Z"/>
+        </g>
+        <g id="Ears">
+          <path class="cls-4" d="M81.29,31.83l12.51,23.44c.24.46.94.28.94-.23v-23.44c0-.28-.22-.5-.5-.5h-12.51c-.38,0-.62.4-.44.73h0ZM91.03,42.58l-3.72-6.98c-.14-.27.05-.59.35-.59h3.72c.22,0,.4.18.4.4v6.98c0,.42-.56.56-.76.19h0Z"/>
+          <path class="cls-4" d="M55.34,31.65l-12.45,23.32c-.24.45-.93.28-.93-.23v-23.32c0-.27.22-.49.49-.49h12.45c.37,0,.61.4.44.73h0ZM45.94,42.03l3.7-6.94c.14-.27-.05-.59-.35-.59h-3.7c-.22,0-.4.18-.4.4v6.94c0,.42.56.56.75.19h0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
